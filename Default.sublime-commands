@@ -1,0 +1,22 @@
+[
+  {
+    "caption": "TagMonster: Rebuild tags",
+    "command": "rebuild_tags"
+  },
+  {
+    "caption": "TagMonster: Jump to Tag",
+    "command": "jump_to_tag"
+  },
+  {
+    "caption": "TagMonster: Peek at Tag",
+    "command": "peek_at_tag"
+  },
+  {
+    "caption": "TagMonster: Jump to Current Word",
+    "command": "jump_to_current_word"
+  },
+  {
+    "caption": "TagMonster: Peek at Current Word",
+    "command": "peek_at_current_word"
+  }
+]

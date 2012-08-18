@@ -1,0 +1,3 @@
+*.pyc
+completion_cache/*
+testfiles/

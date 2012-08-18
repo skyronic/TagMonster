@@ -1,0 +1,5 @@
+[
+	{ "caption": "-" },
+	{ "caption": "Jump to tag", "command": "jump_to_current_word" },
+	{ "caption": "Peek at tag", "command": "peek_at_current_word" }
+]

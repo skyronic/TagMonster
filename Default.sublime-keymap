@@ -1,0 +1,18 @@
+[
+  {
+  	"keys":["ctrl+t"],
+    "command": "jump_to_tag"
+  },
+  {
+  	"keys":["ctrl+shift+t"],
+    "command": "peek_at_tag"
+  },
+  {
+  	"keys":["alt+shift+p"],
+    "command": "jump_to_current_word"
+  },
+  {
+  	"keys":["alt+p"],
+    "command": "peek_at_current_word"
+  }
+]

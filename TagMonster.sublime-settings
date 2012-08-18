@@ -1,0 +1,16 @@
+{
+	// The command to be executed to rebuild tags
+	"rebuild_tags_command": "/bin/bash -x testfiles/buildtags.sh",
+
+	"tag_files": [
+		{
+			"scope": "source.php",
+			"file_path": "testfiles/tags"
+		},
+		{
+			"scope": "source.js",
+			"file_path": "testfiles/jstags"
+		}
+	],
+	"ignore_tag_regex": "%anonymous_function"
+}
